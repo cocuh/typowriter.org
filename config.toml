@@ -19,9 +19,8 @@ theme='hugo-nuo'
 
 
 [params]
-  email = "cocuh.kk@gmail.com"
   github = "cocuh"
-  twitter = "cocu_628496"
+  twitter = "cocuh_"
   linkedin = "kosukekusano"
   facebook = "k0suke.kusan0"
   avatar='/img/burglar_cat.png'
