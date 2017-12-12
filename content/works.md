@@ -18,9 +18,9 @@ draw 3d object, only SVG.
 
 [blog](http://cocu.hatenablog.com/entry/2014/01/03/022437),
 [github](https://github.com/cocuh/2014-kakizome),
-[link](//2014.typowriter.org/3d.svg/index.svg)
+[link](//dev.typowriter.org/2014/3d.svg/index.svg)
 
-[![tsuru](/img/works/tsuru.png)](//2014.typowriter.org/3d.svg/index.svg)
+[![tsuru](/img/works/tsuru.png)](//dev.typowriter.org/2014/3d.svg/index.svg)
 
 
 ## WallpaperChanger
@@ -44,7 +44,7 @@ draw 3d object, only SVG.
 
 [blog](http://cocu.hatenablog.com/entry/2013/11/30/000623),
 [github](https://github.com/cocuh/2013-mandelbrot),
-[link](http://mandelbrot.typowriter.org/)
+[link](http://dev.typowriter.org/2013/mandelbrot)
 
 [![mandelbrot](/img/works/mandelbrot.png)](http://mandelbrot.typowriter.org)
 
