@@ -12,16 +12,10 @@ theme='hugo-nuo'
   url = "/"
 
 [[menu.main]]
-  name = "Works"
-  weight = 20
-  identifier = "works"
-  url = "/works]"
-
-[[menu.main]]
-  name = "Tags"
+  name = "Blog"
   weight = 30
-  identifier = "tags"
-  url = "/tags/"
+  identifier = "blog"
+  url = "http://cocu.hatenablog.com/"
 
 
 [params]
@@ -31,3 +25,8 @@ theme='hugo-nuo'
   linkedin = "kosukekusano"
   facebook = "k0suke.kusan0"
   avatar='/img/burglar_cat.png'
+
+[[links.hoge]]
+  title= "yo"
+  description='youjo'
+  link='hoge'

@@ -1,0 +1,16 @@
+01_blog:
+  title: cocuh's blog
+  link: http://cocu.hatenablog.com/
+  description: 技術に関することをたまに書く
+
+02_github:
+  title: github
+  link: https://github.com/cocuh
+  avater: /img/icons/GitHub-Mark-32px.png
+  description: コードがおいてある
+
+03_twitter:
+  title: twitter
+  link: https://twitter.com/cocuh_
+  description: 生存確認はこちら
+

@@ -1,7 +1,9 @@
 ---
 title: "Works"
-date: 2017-12-12
+date: "2017-12-12"
 layout: "about"
+menu: "main"
+weight: 20
 ---
 
 # 2014
