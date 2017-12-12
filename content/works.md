@@ -44,9 +44,9 @@ draw 3d object, only SVG.
 
 [blog](http://cocu.hatenablog.com/entry/2013/11/30/000623),
 [github](https://github.com/cocuh/2013-mandelbrot),
-[link](http://dev.typowriter.org/2013/mandelbrot)
+[link](http://dev.typowriter.org/2013/mandelbrot/)
 
-[![mandelbrot](/img/works/mandelbrot.png)](http://mandelbrot.typowriter.org)
+[![mandelbrot](/img/works/mandelbrot.png)](http://dev.typowriter.org/2013/mandelbrot/)
 
 ## PySat
 Python実装のSATソルバー、CDCLアルゴリズムを採用
